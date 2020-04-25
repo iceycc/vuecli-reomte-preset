@@ -1,7 +1,4 @@
 {
-    "useTaobaoRegistry": true,
-    "latestVersion": "4.3.1",
-    "cssPreprocessor": "sass",
-    "lastChecked": 1587097626482,
-    "packageManager": "yarn"
-}  
+    "useConfigFiles": true,
+    "cssPreprocessor": "sass"
+}
