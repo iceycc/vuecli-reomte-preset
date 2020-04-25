@@ -3,7 +3,7 @@ module.exports = (api, options, rootOptions) => {
     api.extendPackage({
       scripts: {
         test: 'vue-cli-service test',
-        zgTest: 'zg-test'
+        test2: 'zg-test'
       }
     })
   
@@ -13,3 +13,4 @@ module.exports = (api, options, rootOptions) => {
       api.render('./template')
     }
   }
+   
