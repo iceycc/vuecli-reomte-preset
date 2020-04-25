@@ -1,13 +1,7 @@
 {
-    "useConfigFiles": true,
+    "useTaobaoRegistry": true,
+    "latestVersion": "4.3.1",
     "cssPreprocessor": "sass",
-    "plugins": {
-      "@vue/cli-plugin-babel": {},
-      "@vue/cli-plugin-eslint": {
-        "config": "airbnb",
-        "lintOn": ["save", "commit"]
-      },
-      "@vue/cli-plugin-router": {},
-      "@vue/cli-plugin-vuex": {}
-    }
-  }
+    "lastChecked": 1587097626482,
+    "packageManager": "yarn"
+}  
